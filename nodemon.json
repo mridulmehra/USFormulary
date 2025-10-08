@@ -1,0 +1,13 @@
+{
+  "watch": [
+    "api_server.js",
+    "**/*.js"
+  ],
+  "ext": "js,json",
+  "ignore": [
+    "node_modules"
+  ],
+  "exec": "node api_server.js"
+}
+
+
